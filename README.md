@@ -6,6 +6,8 @@
 
 ## Icons
 * [IconScout](https://iconscout.com) - iconscout.com
+* [Flaticon](https://www.flaticon.com/) - flaticon.com
+
 
 ## Inspirations
 * [Dribbble](https://dribbble.com) - dribbble.com
