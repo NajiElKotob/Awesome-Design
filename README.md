@@ -14,4 +14,5 @@
 
 ## Design systems
 * [Material Design](https://material.io/) - material.io
-* [Fotor](https://www.fotor.com/) - The Most Accurate & Free AI Background Remover
+* [Fotor](https://www.fotor.com/) - Online photo editor for everyone
+
