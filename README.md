@@ -7,6 +7,8 @@
 ## Icons
 * [IconScout](https://iconscout.com) - iconscout.com
 * [Flaticon](https://www.flaticon.com/) - flaticon.com
+* [Noun Project](https://thenounproject.com/) - thenounproject.com | Icons and Photos For Everything
+
 
 
 ## Inspirations
