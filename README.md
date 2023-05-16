@@ -10,6 +10,10 @@
 * [Freepik](https://www.freepik.com/) - Graphic resources for everyone
 * [Unsplash](https://unsplash.com/) - The internet’s source of freely usable images.
 
+## Fonts
+* [DaFont](https://www.dafont.com/) - Download fonts
+* [Google Fonts](https://fonts.google.com/)
+* [Font Identifier](https://www.fontsquirrel.com/matcherator) - Fontspring Matcherator
 
 ## Icons
 * [IconScout](https://iconscout.com) - iconscout.com
