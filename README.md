@@ -6,6 +6,7 @@
 * [Extract Theme](https://color.adobe.com/create/image) - color.adobe.com
 * [Color Palettes](https://www.astellescolors.com/)
 * [Adobe Color](https://color.adobe.com/)
+* [Color Hunt](https://colorhunt.co) - colorhunt.co
 * [HTML Color Codes](https://htmlcolorcodes.com/color-names/) - Modern browsers support 140 named colors, which are listed below. Use them in your HTML and CSS by name, Hex color code or RGB value.
 
 ## Images
