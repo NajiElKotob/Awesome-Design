@@ -19,6 +19,7 @@
 * [DaFont](https://www.dafont.com/) - Download fonts
 * [Google Fonts](https://fonts.google.com/)
 * [Font Identifier](https://www.fontsquirrel.com/matcherator) - Fontspring Matcherator
+* [Fontello](https://fontello.com/) - fontello.com
 
 ## Icons
 * [Open Iconic](https://github.com/iconic/open-iconic) - useiconic.com
