@@ -35,6 +35,9 @@
 * [Material Design](https://material.io/) - material.io
 * [Fotor](https://www.fotor.com/) - Online photo editor for everyone
 
+## Design Styles
+
+
 ### GIF
 * [GIPHY](https://giphy.com/)
 * [Video to GIF converter](https://ezgif.com/video-to-gif) - ezgif.com
