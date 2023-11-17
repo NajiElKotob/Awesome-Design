@@ -36,7 +36,7 @@
 * [Fotor](https://www.fotor.com/) - Online photo editor for everyone
 
 ## Design Styles
-
+* **Glassmorphism**: A design style characterized by a frosted-glass effect, where UI elements have a translucent, blurred appearance that allows the background to show through, often coupled with vivid colors and light borders.
 
 ### GIF
 * [GIPHY](https://giphy.com/)
