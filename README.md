@@ -39,6 +39,7 @@
 * **Glassmorphism**: A design style characterized by a frosted-glass effect, where UI elements have a translucent, blurred appearance that allows the background to show through, often coupled with vivid colors and light borders.
 * **Neumorphism**: A design trend that mimics physicality and realism, combining background colors, shapes, shadows, and gradients to create a soft, extruded plastic look, often resembling digital embossing or debossing.
 * **Flat Design**: A style focused on simplicity, featuring clean, open space, crisp edges, bright colors, and two-dimensional illustrations, avoiding gradients, textures, or other three-dimensional elements.
+* **Material Design**: Developed by Google, this design language emphasizes grid-based layouts, responsive animations, padding, and depth effects such as lighting and shadows, offering a more tactile sense of UI.
 
 ### GIF
 * [GIPHY](https://giphy.com/)
