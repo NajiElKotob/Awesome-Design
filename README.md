@@ -48,7 +48,8 @@
 * [Video to GIF converter](https://ezgif.com/video-to-gif) - ezgif.com
 
 ### Converters
-[YouTube to MP4 & MP3 Converter](https://www.clipconverter.cc/) - ClipConverter
+* [YouTube to MP4 & MP3 Converter](https://www.clipconverter.cc/) - ClipConverter
+* [Base64 Image](https://www.base64-image.de/) - base64-image.de | Convert Your Images to Base64
 
 ### Favicon
 * [Favicon.io](https://favicon.io/favicon-converter/) - favicon.io | Quickly generate your favicon from an image
