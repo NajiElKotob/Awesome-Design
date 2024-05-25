@@ -29,8 +29,9 @@
 * [Noun Project](https://thenounproject.com/) - thenounproject.com | Icons and Photos For Everything
 * [SVGViewer](https://www.svgviewer.dev) - svgviewer.dev | An online tool to view, edit and optimize SVGs.
 
-## Inspirations
+## Inspirations and Templates
 * [Dribbble](https://dribbble.com) - dribbble.com
+* [Venngage](https://venngage.com/) - venngage.com | Professional Infographic Maker - 10,000+ Templates
 
 ## Design systems
 * [Material Design](https://material.io/) - material.io
