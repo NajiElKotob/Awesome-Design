@@ -50,6 +50,7 @@
 
 ### SVG
 * [Image to Base64](https://base64.guru/converter/encode/image)
+* [SVG to Base64](https://base64.guru/converter/encode/image/svg)
 
 ### Converters
 * [YouTube to MP4 & MP3 Converter](https://www.clipconverter.cc/) - ClipConverter
