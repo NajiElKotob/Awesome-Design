@@ -48,6 +48,9 @@
 * [GIPHY](https://giphy.com/)
 * [Video to GIF converter](https://ezgif.com/video-to-gif) - ezgif.com
 
+### SVG
+* [Image to Base64](https://base64.guru/converter/encode/image)
+
 ### Converters
 * [YouTube to MP4 & MP3 Converter](https://www.clipconverter.cc/) - ClipConverter
 * [Base64 Image](https://www.base64-image.de/) - base64-image.de | Convert Your Images to Base64
