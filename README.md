@@ -52,6 +52,9 @@
 * [Image to Base64](https://base64.guru/converter/encode/image)
 * [SVG to Base64](https://base64.guru/converter/encode/image/svg)
 
+### ASCII and UNICODE
+* [Made in Text](https://www.madeintext.com/) - madeintext.com
+
 ### Converters
 * [YouTube to MP4 & MP3 Converter](https://www.clipconverter.cc/) - ClipConverter
 * [Base64 Image](https://www.base64-image.de/) - base64-image.de | Convert Your Images to Base64
