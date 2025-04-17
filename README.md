@@ -9,6 +9,7 @@
 * [Color Hunt](https://colorhunt.co) - colorhunt.co
 * [Coolors](https://coolors.co/) - coolors.co
 * [HTML Color Codes](https://htmlcolorcodes.com/color-names/) - Modern browsers support 140 named colors, which are listed below. Use them in your HTML and CSS by name, Hex color code or RGB value.
+* [Palette Generator](https://www.learnui.design/tools/data-color-picker.html#palette)⭐ - learnui.design
 
 ## Images
 * [Pixabay](https://pixabay.com) - Stunning free images & royalty free stock
