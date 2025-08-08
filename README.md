@@ -17,6 +17,10 @@
 * [Freepik](https://www.freepik.com/) - Graphic resources for everyone
 * [Unsplash](https://unsplash.com/) - The internet’s source of freely usable images.
 
+## Background
+### Pastel Gradient Background
+* [Pastel Gradient Background](https://www.color4bg.com/en/generator/pastel-gradient-background?color0=98CEF3&color1=B9E0FF&color2=D0E6FB&color3=E6D6FD&color4=E4C5FB&color5=D2ACFB) - color4bg.com
+
 ## Fonts
 * [DaFont](https://www.dafont.com/) - Download fonts
 * [Google Fonts](https://fonts.google.com/)
