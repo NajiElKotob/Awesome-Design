@@ -20,6 +20,7 @@
 ## Background
 ### Pastel Gradient Background
 * [Pastel Gradient Background](https://www.color4bg.com/en/generator/pastel-gradient-background?color0=98CEF3&color1=B9E0FF&color2=D0E6FB&color3=E6D6FD&color4=E4C5FB&color5=D2ACFB) - color4bg.com
+* [Cool Backgrounds](https://coolbackgrounds.io/) - coolbackgrounds.io
 
 ## Fonts
 * [DaFont](https://www.dafont.com/) - Download fonts
