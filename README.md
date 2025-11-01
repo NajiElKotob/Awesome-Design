@@ -36,6 +36,7 @@
 * [Flaticon](https://www.flaticon.com/) - flaticon.com
 * [Noun Project](https://thenounproject.com/) - thenounproject.com | Icons and Photos For Everything
 * [SVGViewer](https://www.svgviewer.dev) - svgviewer.dev | An online tool to view, edit and optimize SVGs.
+* [SVG Repo](https://www.svgrepo.com/) - svgrepo.com | 500.000+ Open-licensed SVG Vector and Icons
 
 ## Inspirations and Templates
 * [Dribbble](https://dribbble.com) - dribbble.com
